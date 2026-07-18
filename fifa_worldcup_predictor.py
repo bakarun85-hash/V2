@@ -1222,3 +1222,5 @@ st.caption(
     "Dixon-Coles low-score correction · Attack/Defense split Poisson model · "
     "Monte Carlo tournament sim | Built with Streamlit + NumPy + SciPy + Plotly"
 )
+
+
